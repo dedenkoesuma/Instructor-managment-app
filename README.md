@@ -53,7 +53,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ```bash
 # Clone this project
-$  git clone https://github.com/dedenkoesuma/Instructor-managment-app.git
+$ git clone https://github.com/dedenkoesuma/Instructor-managment-app.git
+
+#go to your file directory
+$ cd ../
 
 # In your terminal run
 $ composer install
