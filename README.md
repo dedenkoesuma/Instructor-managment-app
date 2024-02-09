@@ -64,7 +64,7 @@ $ composer install
 #Copy .env.example to .env and updated the configurations (mainly the database configuration)
 
 # to create the database tables and seed the roles and users tables
-$ php artisan migrate
+$ php artisan migrate --seed
 
 #to create the storage symlink
 $ php artisan storage:link
