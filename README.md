@@ -66,6 +66,9 @@ $ Run php artisan migrate
 #to create the storage symlink
 $ php artisan storage:link
 
+#To generate an application key
+$ php artisan key:generate
+
 # Run the project
 $ php artisan serve
 
